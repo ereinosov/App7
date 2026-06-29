@@ -12,7 +12,7 @@
 |Universidad|Universidad Técnica Estatal de Quevedo (UTEQ)        |
 |Facultad   |Facultad de Ciencias de la Computación (FCC)         |
 |Carrera    |Software                                             |
-|Materia    |Aplicaciones Móviles — SOFT-R-A · 6to Nivel · Corte 1|
+|Materia    |Aplicaciones Móviles — SOFT-R-A · 6to Nivel · Corte 2|
 |Tema       |Google Maps SDK para Android                         |
 |Estudiante |Eduardo Reinoso Vélez                               |
 
